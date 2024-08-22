@@ -12,5 +12,5 @@ My research interest is in Software Security with a focus on Binary Analysis for
   - [View](https://heedongy.github.io/CV/heedong_cv.pdf)
 
 ### 💬 Contact Me
-  -  Research: heedongy@korea.ac.kr
-  -  Personal: heedong.yang.kr@gmail.com
+  -  Research: heedongy[at]korea.ac.kr
+  -  Personal: heedong.yang.kr[at]gmail.com
