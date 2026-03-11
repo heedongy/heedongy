@@ -1,4 +1,4 @@
-### 👋 Heedong Yang 
+### :octocat:  Heedong Yang 
 ![](https://komarev.com/ghpvc/?username=heedongy&color=orange)
 
 I'm Heedong Yang, Ph.D Student in Software Security and Privacy Laboratory ([SSP Lab @ Korea University](https://ssp.korea.ac.kr)).
@@ -8,7 +8,7 @@ I Worked at KAIST Cyber Security Research Center([CSRC](https://csrc.kaist.ac.kr
 
 ### 🖥️ Research
   - Software security
-  - Binary code similarity detection
+  - Vulnerability detection
   - Software supply chain security
 
 ### 📄 CV  
@@ -16,4 +16,4 @@ I Worked at KAIST Cyber Security Research Center([CSRC](https://csrc.kaist.ac.kr
 
 ### 💬 Contact Me
   -  Research: heedongy[at]korea.ac.kr
-  -  Personal: heedong.yang.kr[at]gmail.com
+  -  Personal: heedong.yang.kr[at]gmail.c
