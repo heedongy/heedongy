@@ -16,4 +16,4 @@ I Worked at KAIST Cyber Security Research Center([CSRC](https://csrc.kaist.ac.kr
 
 ### 💬 Contact Me
   -  Research: heedongy[at]korea.ac.kr
-  -  Personal: heedong.yang.kr[at]gmail.c
+  -  Personal: heedong.yang.kr[at]gmail.com
